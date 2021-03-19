@@ -1,0 +1,52 @@
+com/example/moviesonn/models/TrailerResponse.java
+ com.example.moviesonn.models.TrailerResponse
+com/example/moviesonn/MovieDetailBottomFragment.java
+ com.example.moviesonn.MovieDetailBottomFragment
+ com.example.moviesonn.MovieDetailBottomFragment$1
+com/example/moviesonn/models/Trailer.java
+ com.example.moviesonn.models.Trailer
+com/example/moviesonn/models/ReviewResponse.java
+ com.example.moviesonn.models.ReviewResponse
+com/example/moviesonn/Utils/Utils.java
+ com.example.moviesonn.Utils.Utils
+com/example/moviesonn/models/Reviews.java
+ com.example.moviesonn.models.Reviews
+com/example/moviesonn/MainActivity.java
+ com.example.moviesonn.MainActivity
+ com.example.moviesonn.MainActivity$1
+ com.example.moviesonn.MainActivity$2
+ com.example.moviesonn.MainActivity$3
+ com.example.moviesonn.MainActivity$4
+ com.example.moviesonn.MainActivity$5
+com/example/moviesonn/BuildConfig.java
+ com.example.moviesonn.BuildConfig
+com/example/moviesonn/Utils/Constants.java
+ com.example.moviesonn.Utils.Constants
+com/example/moviesonn/adapters/MovieListAdapter.java
+ com.example.moviesonn.adapters.MovieListAdapter
+ com.example.moviesonn.adapters.MovieListAdapter$1
+ com.example.moviesonn.adapters.MovieListAdapter$2
+ com.example.moviesonn.adapters.MovieListAdapter$MoviesVH
+com/example/moviesonn/MovieDescActivity.java
+ com.example.moviesonn.MovieDescActivity
+ com.example.moviesonn.MovieDescActivity$1
+ com.example.moviesonn.MovieDescActivity$2
+ com.example.moviesonn.MovieDescActivity$3
+com/example/moviesonn/adapters/ReviewAdapter.java
+ com.example.moviesonn.adapters.ReviewAdapter
+ com.example.moviesonn.adapters.ReviewAdapter$VHReview
+com/example/moviesonn/models/MovieResponse.java
+ com.example.moviesonn.models.MovieResponse
+com/example/moviesonn/adapters/TrailerAdapter.java
+ com.example.moviesonn.adapters.TrailerAdapter
+ com.example.moviesonn.adapters.TrailerAdapter$VHTrailer
+com/example/moviesonn/movieFragmentCallback.java
+ com.example.moviesonn.movieFragmentCallback
+com/example/moviesonn/OnItemClickListener.java
+ com.example.moviesonn.OnItemClickListener
+com/example/moviesonn/models/Movie.java
+ com.example.moviesonn.models.Movie
+com/example/moviesonn/network/ApiClientService.java
+ com.example.moviesonn.network.ApiClientService
+com/example/moviesonn/network/ApiClient.java
+ com.example.moviesonn.network.ApiClient

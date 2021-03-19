@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies Onn</string>
+    <string name="activity_main_empty_text">Popular Movies</string>
+    <string name="activity_main_movie_search_query_hint">Search Movies</string>
+    <string name="overview">Overview</string>
+    <string name="know_more">know more</string>
+    <string name="tv_empty_activity">Oops! Could not find any movie with this keyword. Try another movie.</string>
+    <string name="play">PLAY</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="total_votes">Total Votes:</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailers">Trailers</string>
+    </resources>

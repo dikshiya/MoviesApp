@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MoviesOnn" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">#C8970E</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#C8970E</item>
+        <item name="colorSecondaryVariant">#C8970E</item>
+        <item name="colorOnSecondary">#C8970E</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">#bfbfbf</item>
+        <item name="colorControlActivated">#ffbf00</item>
+    </style>
+</resources>

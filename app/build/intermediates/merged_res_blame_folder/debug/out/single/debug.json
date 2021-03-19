@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\layout_review_item.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\layout\\review_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_movie_detail_bottom.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\layout\\fragment_movie_detail_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie_desc.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\layout\\activity_movie_desc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_image_24.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\drawable\\ic_baseline_image_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\layout_movie_item.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\layout\\movie_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\raw_wishlist_heart.json.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\raw\\wishlist_heart.json"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_play_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\drawable\\ic_baseline_play_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\layout_trailer_item.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\layout\\trailer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_favorite_border_24.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\drawable\\ic_outline_favorite_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_clear_24.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\drawable\\ic_baseline_clear_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dikshiya\\AndroidStudioProjects\\MoviesOnn\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
